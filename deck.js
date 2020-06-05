@@ -1,5 +1,5 @@
 /* INSTRUCTIONS
-To run this file, click in the Console below and type: node 3_deck.js 
+To run this file, click in the Console below and type: node deck.js 
 If the console isn't visible, click the View menu above and choose Show Console.
 
 You can clear the console by typing `clear` and pressing enter.
