@@ -40,4 +40,4 @@ function createDeck() {
 "7 of ♥.︎"
 */
 
-// Run your code by typing node 3_deck.js in the console below
+// Run your code by typing node deck.js in the console below
